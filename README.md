@@ -1,5 +1,15 @@
 # Mundi-Tempus
 
-Without going into the technical aspects of an MMORPG here we attempt to take a look at the world in itself and see what it's about.
+> I've always been a fan of MMORPG games, however there has been a clear lack of innovation
+> in the genre itself. I've decided to spear the idea of where MMORPGS should go with a game
+> concept and ideas on company ethics to maintain a vision of building a game for the players.
+> - Kemicofa
 
-Mundi Tempus is simply "World of Warcraft" in latin and will use world of warcarft and other MMORPGs as a stepping stone to create its own original world.
+## Table Of Contents
+
+
+
+## How to contribute
+
+1. Open an issue to discuss certain aspects of this guide
+2. Create a PR to add changes to thsi guide
